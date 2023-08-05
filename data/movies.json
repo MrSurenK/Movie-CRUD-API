@@ -1,0 +1,30 @@
+[
+  {
+    "id": "213976be-9157-4daa-992b-5b93f68540a6",
+    "title": "The Wolf of Wall Street",
+    "year": "2050",
+    "genre": "Biography, Comedy, Crime",
+    "rating": "10"
+  },
+  {
+    "title": "Avatar 2",
+    "year": "2020",
+    "genre": "Action, Adventure, Fantasy",
+    "rating": "7.9",
+    "id": "9017c8f4-3406-474a-a528-bac9da1675d8"
+  },
+  {
+    "title": "The Avengers: End game",
+    "year": "2020",
+    "genre": "Action, Adventure, Fantasy",
+    "rating": "7.9",
+    "id": "e2fec764-7a7b-46d6-96d6-de9d3a6dec6b"
+  },
+  {
+    "title": "The Avengers: Infinity War",
+    "year": "2020",
+    "genre": "Action, Adventure, Fantasy",
+    "rating": "3",
+    "id": "8a112bc6-759e-4f3e-b15d-4f5654f0795b"
+  }
+]

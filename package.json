@@ -1,0 +1,26 @@
+{
+  "name": "node-js-crud-movie-api",
+  "version": "1.0.0",
+  "description": "Vanilla Node.js CRUD API ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrSurenK/Node.js-CRUD-API.git"
+  },
+  "author": "Suren K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrSurenK/Node.js-CRUD-API/issues"
+  },
+  "homepage": "https://github.com/MrSurenK/Node.js-CRUD-API#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
